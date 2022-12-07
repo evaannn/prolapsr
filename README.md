@@ -14,3 +14,7 @@
 ## How does DONGFORCE&trade; work?
 
 You can read more about Dongforce <a href="https://gist.github.com/evaannn/da4c5b64904842ddc1f30f592fa18eae">here</a>.
+
+
+## How do I use DONGFORCE&trade;?
+learn how to run the code dipshit i already gave you the code
